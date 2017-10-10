@@ -1,0 +1,110 @@
+---------------------------
+
+Action: Enqueue
+
+25 was inserted into the queue.
+
+Current queue: 25 
+
+---------------------------
+
+Action: Enqueue
+
+37 was inserted into the queue.
+
+Current queue: 25 37 
+
+---------------------------
+
+Action: Enqueue
+
+45 was inserted into the queue.
+
+Current queue: 25 37 45 
+
+---------------------------
+
+Action: Enqueue
+
+52 was inserted into the queue.
+
+Current queue: 25 37 45 52 
+
+---------------------------
+
+Action: Enqueue
+
+98 was inserted into the queue.
+
+Current queue: 25 37 45 52 98 
+
+---------------------------
+
+Action: Dequeue
+
+25 was removed from the queue.
+
+Current queue: 37 45 52 98 
+
+---------------------------
+
+Action: Dequeue
+
+37 was removed from the queue.
+
+Current queue: 45 52 98 
+
+---------------------------
+
+Action: Dequeue
+
+45 was removed from the queue.
+
+Current queue: 52 98 
+
+---------------------------
+
+Action: Enqueue
+
+36 was inserted into the queue.
+
+Current queue: 52 98 36 
+
+---------------------------
+
+Action: Enqueue
+
+12 was inserted into the queue.
+
+Current queue: 52 98 36 12 
+
+---------------------------
+
+Action: Dequeue
+
+52 was removed from the queue.
+
+Current queue: 98 36 12 
+
+---------------------------
+
+Action: Dequeue
+
+98 was removed from the queue.
+
+Current queue: 36 12 
+
+---------------------------
+
+Action: Enqueue
+
+69 was inserted into the queue.
+
+Current queue: 36 12 69 
+
+---------------------------
+
+The queue process has ended.
+
+The final queue is: 36 12 69 
+

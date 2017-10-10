@@ -1,0 +1,3 @@
+This program scans an input file and either adds a number to the queue, or removes a number from the queue based on which action the program is told to do. All output is written to the output file. "E" is used for "enqueue". It adds the specified number to the back of the queue. "D" is used for dequeue. It removes the item that's at the front of the queue. A sample input file and output file has been provided.
+
+This program was written for the Advanced C Programming course with UCSC Extension.
